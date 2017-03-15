@@ -1,0 +1,29 @@
+programs:
+  - name: Atom
+    steps:
+      - 'step 1'
+      - 'step 2'
+  - name: Brackets
+    steps:
+      - 'step 1'
+      - 'step 2'
+  - name: Emacs
+    steps:
+      - 'step 1'
+      - 'step 2'
+  - name: Notepad++
+    steps:
+      - 'step 1'
+      - 'step 2'
+  - name: Sublime Text
+    steps:
+      - 'step 1'
+      - 'step 2'
+  - name: VSCode
+    steps:
+      - 'step 1'
+      - 'step 2'
+  - name: Vim
+    steps:
+      - 'step 1'
+      - 'step 2'
